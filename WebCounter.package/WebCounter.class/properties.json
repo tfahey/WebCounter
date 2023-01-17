@@ -1,0 +1,14 @@
+{
+	"category" : "WebCounter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TF 1/16/2023 15:20",
+	"instvars" : [
+		"count" ],
+	"name" : "WebCounter",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
